@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+I am git novice
+>>>>>>> test
